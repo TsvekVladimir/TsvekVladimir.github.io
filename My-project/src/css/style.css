@@ -4,7 +4,7 @@ body{
 
 nav{
     width: 100%;
-    height: 30px;
+    height: 60px;
     background: #344051;
 }
 
@@ -33,11 +33,197 @@ nav{
 .main{
     
     width: 100%;
-    height: calc(100%-60px);
-    background: url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png) 90% 100%/auto 85% no-repeat, url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C%20%D0%B4%D0%B6%D0%BF.jpg) center/cover no-repeat;
+    height: calc(100% - 60px);
+    height: 100%;
+    background: url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png) 90% 100%/auto 85% no-repeat, url(../img/фон.png) center/cover no-repeat;
+    
 }
-.title__conteiner{
+.title__container{
     float: left;
     margin: 432px 0px 0px 404px;
     color: #2c384a;
+    text-align: center;
+    
 }
+.title__container h1{
+    font-size:  60px;
+    font-weight: bold;
+    
+}
+.title__container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #acb1b8;
+}
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 58px 14px ;
+    
+}
+.logo2{
+   
+    text-align: center;
+    font-size: 33px; 
+    font-weight: bold;
+    padding-top: 110px;
+    color: #263244;
+    
+   
+    
+
+
+
+}
+.certa{
+    padding: 32px 0px 60px 920px;
+}
+.title__conteiner2{
+    text-align: left;
+    padding-left: 600px;
+    padding-right: 600px;
+    color: #3f495a;
+    
+}
+.fotka1{
+    padding-left: 860px;
+    padding-top: 100px;
+    padding-bottom: 25px;
+}
+.title__conteiner2 input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    margin-left: 40%;
+    margin-top: 36px;
+    padding: 12px 14px 12px 34px;
+   
+    background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png) 14px 12px no-repeat;
+}
+.logo3 h2{
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+    color: #263244;
+    padding-top: 350px;
+    padding-bottom: 32px;
+}
+.logo3{
+    
+}
+
+.certa2{
+    padding-left: 920px;
+}
+
+.bg{
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png) 100% no-repeat;
+    height: 100%;
+    
+    
+}
+
+.web{
+    padding-left: 410px;
+    float: left;
+    text-align: center;
+    padding-top: 112px;
+    
+}
+.web h3{
+    color: #cf7600;
+    font-weight: bold;
+    font-size 40px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    
+}
+.razrab{
+    padding-left: 85px;
+    float: left;
+    text-align: center;
+    padding-top: 112px;
+    
+}
+.razrab h3{
+    color: #cf7600;
+    font-weight: bold;
+    font-size 40px;
+    margin-bottom: 19px;
+    margin-top: 36px;
+    
+}
+.ceo{
+    margin-left: 85px;
+    float: left;
+    text-align: center;
+    padding-top: 112px;
+    
+}
+.ceo h3{
+    color: #cf7600;
+    font-weight: bold;
+    font-size 40px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    
+}
+.mar{
+    
+    width: 250px;
+    float: left;
+    text-align: center;
+    padding-top: 112px;
+    margin-left: 85px;
+}
+.mar h3{
+    color: #cf7600;
+    font-weight: bold;
+    font-size 40px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
