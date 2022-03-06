@@ -215,7 +215,7 @@ nav{
     padding-bottom: 43px;
 }
 .menu3{
-    padding-left: 390px;
+    padding-top: 30px;
     
 }
 .wb{
@@ -229,9 +229,13 @@ nav{
     
 }
 .prt{
+    margin-left: 400px;
+    
     padding-left: 400px;
+}
+.prt2{
     float: left;
-    width: 20%;
+    margin-left: 386px;
 }
 
 
